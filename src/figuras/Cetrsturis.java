@@ -2,7 +2,7 @@ package figuras;
 
 public class Cetrsturis {
 	public int platums, augstums;
-	public Centrs punkts;
+	public Centrs punkts;	
 	
 	// Konstruktoru pārslogošana
 	
